@@ -2,7 +2,7 @@
 # Calling An API With Post Method
 ![API Calling Post Method](https://github.com/rezaul525/Smart-Student-API-Testing/assets/59533863/44ee345c-e5bb-41d2-96b9-806283091102)
 
-API Chaining with Json
+# API Chaining with Json
 ![API Chaining Script Writing](https://github.com/rezaul525/Smart-Student-API-Testing/assets/59533863/65588d5e-e769-4fd4-910d-91aaaacf2457)
 
 # Test Script Writing with Json
